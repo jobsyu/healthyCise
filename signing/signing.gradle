@@ -1,0 +1,14 @@
+android {
+	signingConfigs {
+		sign {
+			storeFile rootProject.file('signing/mykey.jks')
+			storePassword '123456'
+			keyAlias 'key0'
+			keyPassword '123456'
+			v1SigningEnabled true
+			v2SigningEnabled true
+		}
+	}
+}
+
+

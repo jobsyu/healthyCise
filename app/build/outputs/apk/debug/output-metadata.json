@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.iflytek.aiui.demo.simple",
+  "variantName": "processDebugResources",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 39,
+      "versionName": "1.5.8",
+      "outputFile": "AIUISimpleDemo-1.5.8-debug-20251017155146.apk"
+    }
+  ]
+}

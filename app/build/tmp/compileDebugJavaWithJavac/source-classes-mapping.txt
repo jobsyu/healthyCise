@@ -1,0 +1,81 @@
+com/iflytek/aiui/demo/chat/ui/PrivacyPolicyDialog.java
+ com.iflytek.aiui.demo.chat.ui.PrivacyPolicyDialog
+com/iflytek/aiui/demo/chat/NlpDemoActivity.java
+ com.iflytek.aiui.demo.chat.NlpDemoActivity
+ com.iflytek.aiui.demo.chat.NlpDemoActivity$1
+ com.iflytek.aiui.demo.chat.NlpDemoActivity$2
+ com.iflytek.aiui.demo.chat.NlpDemoActivity$3
+com/iflytek/aiui/demo/chat/VoiceCloneDemoActivity.java
+ com.iflytek.aiui.demo.chat.VoiceCloneDemoActivity
+ com.iflytek.aiui.demo.chat.VoiceCloneDemoActivity$1
+ com.iflytek.aiui.demo.chat.VoiceCloneDemoActivity$10
+ com.iflytek.aiui.demo.chat.VoiceCloneDemoActivity$11
+ com.iflytek.aiui.demo.chat.VoiceCloneDemoActivity$12
+ com.iflytek.aiui.demo.chat.VoiceCloneDemoActivity$13
+ com.iflytek.aiui.demo.chat.VoiceCloneDemoActivity$2
+ com.iflytek.aiui.demo.chat.VoiceCloneDemoActivity$3
+ com.iflytek.aiui.demo.chat.VoiceCloneDemoActivity$4
+ com.iflytek.aiui.demo.chat.VoiceCloneDemoActivity$5
+ com.iflytek.aiui.demo.chat.VoiceCloneDemoActivity$6
+ com.iflytek.aiui.demo.chat.VoiceCloneDemoActivity$7
+ com.iflytek.aiui.demo.chat.VoiceCloneDemoActivity$8
+ com.iflytek.aiui.demo.chat.VoiceCloneDemoActivity$9
+ com.iflytek.aiui.demo.chat.VoiceCloneDemoActivity$CountTask
+ com.iflytek.aiui.demo.chat.VoiceCloneDemoActivity$CountTask$1
+ com.iflytek.aiui.demo.chat.VoiceCloneDemoActivity$CountTask$2
+com/iflytek/aiui/demo/chat/utils/FucUtil.java
+ com.iflytek.aiui.demo.chat.utils.FucUtil
+com/iflytek/aiui/demo/chat/utils/tts/StreamNlpTtsHelper.java
+ com.iflytek.aiui.demo.chat.utils.tts.StreamNlpTtsHelper
+ com.iflytek.aiui.demo.chat.utils.tts.StreamNlpTtsHelper$1
+ com.iflytek.aiui.demo.chat.utils.tts.StreamNlpTtsHelper$FetchStatus
+ com.iflytek.aiui.demo.chat.utils.tts.StreamNlpTtsHelper$InTextSeg
+ com.iflytek.aiui.demo.chat.utils.tts.StreamNlpTtsHelper$Listener
+ com.iflytek.aiui.demo.chat.utils.tts.StreamNlpTtsHelper$OutTextSeg
+com/iflytek/aiui/demo/chat/RapidInteractDemoActivity2.java
+ com.iflytek.aiui.demo.chat.RapidInteractDemoActivity2
+ com.iflytek.aiui.demo.chat.RapidInteractDemoActivity2$1
+ com.iflytek.aiui.demo.chat.RapidInteractDemoActivity2$2
+ com.iflytek.aiui.demo.chat.RapidInteractDemoActivity2$3
+ com.iflytek.aiui.demo.chat.RapidInteractDemoActivity2$4
+ com.iflytek.aiui.demo.chat.RapidInteractDemoActivity2$5
+ com.iflytek.aiui.demo.chat.RapidInteractDemoActivity2$6
+ com.iflytek.aiui.demo.chat.RapidInteractDemoActivity2$CallState
+ com.iflytek.aiui.demo.chat.RapidInteractDemoActivity2$ChatAdapter
+ com.iflytek.aiui.demo.chat.RapidInteractDemoActivity2$ChatItem
+ com.iflytek.aiui.demo.chat.RapidInteractDemoActivity2$ChatItemVH
+ com.iflytek.aiui.demo.chat.RapidInteractDemoActivity2$ItemType
+ com.iflytek.aiui.demo.chat.RapidInteractDemoActivity2$MockHandler
+com/iflytek/aiui/demo/chat/WebViewActivity.java
+ com.iflytek.aiui.demo.chat.WebViewActivity
+ com.iflytek.aiui.demo.chat.WebViewActivity$1
+com/iflytek/aiui/demo/chat/BuildConfig.java
+ com.iflytek.aiui.demo.chat.BuildConfig
+com/iflytek/aiui/demo/chat/ui/VoiceIndicator.java
+ com.iflytek.aiui.demo.chat.ui.VoiceIndicator
+com/iflytek/aiui/demo/chat/MainActivity.java
+ com.iflytek.aiui.demo.chat.MainActivity
+ com.iflytek.aiui.demo.chat.MainActivity$1
+ com.iflytek.aiui.demo.chat.MainActivity$2
+ com.iflytek.aiui.demo.chat.MainActivity$3
+ com.iflytek.aiui.demo.chat.MainActivity$4
+ com.iflytek.aiui.demo.chat.MainActivity$5
+ com.iflytek.aiui.demo.chat.MainActivity$6
+ com.iflytek.aiui.demo.chat.MainActivity$NoLineClickableSpan
+com/iflytek/aiui/demo/chat/utils/iat/IatResultHelper.java
+ com.iflytek.aiui.demo.chat.utils.iat.IatResultHelper
+com/iflytek/aiui/demo/chat/utils/DeviceUtil.java
+ com.iflytek.aiui.demo.chat.utils.DeviceUtil
+com/iflytek/aiui/demo/chat/ui/ToggleImageButton.java
+ com.iflytek.aiui.demo.chat.ui.ToggleImageButton
+ com.iflytek.aiui.demo.chat.ui.ToggleImageButton$OnToggleListener
+com/iflytek/aiui/demo/chat/utils/SharedPrefUtil.java
+ com.iflytek.aiui.demo.chat.utils.SharedPrefUtil
+com/iflytek/aiui/demo/chat/utils/nlp/NlpResultHelper.java
+ com.iflytek.aiui.demo.chat.utils.nlp.NlpResultHelper
+com/iflytek/aiui/demo/chat/RapidInteractDemoActivity.java
+ com.iflytek.aiui.demo.chat.RapidInteractDemoActivity
+ com.iflytek.aiui.demo.chat.RapidInteractDemoActivity$1
+ com.iflytek.aiui.demo.chat.RapidInteractDemoActivity$2
+com/iflytek/aiui/demo/chat/utils/PermissionUtil.java
+ com.iflytek.aiui.demo.chat.utils.PermissionUtil

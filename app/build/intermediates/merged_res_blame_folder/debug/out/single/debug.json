@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/build/intermediates/res/merged/debug/drawable_ic_header_feifei.png.flat",
+        "source": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/src/main/res/drawable/ic_header_feifei.png"
+    },
+    {
+        "merged": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/build/intermediates/res/merged/debug/color_cl_selector_dark_gunmetal.xml.flat",
+        "source": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/src/main/res/color/cl_selector_dark_gunmetal.xml"
+    },
+    {
+        "merged": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/build/intermediates/res/merged/debug/drawable_bg_rect_radius_10dp.xml.flat",
+        "source": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/src/main/res/drawable/bg_rect_radius_10dp.xml"
+    },
+    {
+        "merged": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/build/intermediates/res/merged/debug/drawable_ic_call_hungup.xml.flat",
+        "source": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/src/main/res/drawable/ic_call_hungup.xml"
+    },
+    {
+        "merged": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/build/intermediates/res/merged/debug/layout_activity_nlp_demo.xml.flat",
+        "source": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/src/main/res/layout/activity_nlp_demo.xml"
+    },
+    {
+        "merged": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/build/intermediates/res/merged/debug/layout_activity_rapid_interact_demo2.xml.flat",
+        "source": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/src/main/res/layout/activity_rapid_interact_demo2.xml"
+    },
+    {
+        "merged": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/build/intermediates/res/merged/debug/layout_activity_voice_clone.xml.flat",
+        "source": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/src/main/res/layout/activity_voice_clone.xml"
+    },
+    {
+        "merged": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/build/intermediates/res/merged/debug/drawable_ic_call.xml.flat",
+        "source": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/src/main/res/drawable/ic_call.xml"
+    },
+    {
+        "merged": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/build/intermediates/res/merged/debug/drawable_ic_mic_normal.xml.flat",
+        "source": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/src/main/res/drawable/ic_mic_normal.xml"
+    },
+    {
+        "merged": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/build/intermediates/res/merged/debug/color_cl_selector_algae_green.xml.flat",
+        "source": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/src/main/res/color/cl_selector_algae_green.xml"
+    },
+    {
+        "merged": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/build/intermediates/res/merged/debug/drawable_ic_mic_mute.xml.flat",
+        "source": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/src/main/res/drawable/ic_mic_mute.xml"
+    },
+    {
+        "merged": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/build/intermediates/res/merged/debug/drawable_bg_feifei.png.flat",
+        "source": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/src/main/res/drawable/bg_feifei.png"
+    },
+    {
+        "merged": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/build/intermediates/res/merged/debug/color_cl_selector_white.xml.flat",
+        "source": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/src/main/res/color/cl_selector_white.xml"
+    },
+    {
+        "merged": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/build/intermediates/res/merged/debug/xml_network_security_config.xml.flat",
+        "source": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/src/main/res/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/build/intermediates/res/merged/debug/color_cl_selector_charcoal_grey.xml.flat",
+        "source": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/src/main/res/color/cl_selector_charcoal_grey.xml"
+    },
+    {
+        "merged": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/build/intermediates/res/merged/debug/layout_layout_chat_item_user.xml.flat",
+        "source": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/src/main/res/layout/layout_chat_item_user.xml"
+    },
+    {
+        "merged": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/build/intermediates/res/merged/debug/color_cl_selector_pale_grey.xml.flat",
+        "source": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/src/main/res/color/cl_selector_pale_grey.xml"
+    },
+    {
+        "merged": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/build/intermediates/res/merged/debug/layout_activity_rapid_interact_demo.xml.flat",
+        "source": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/src/main/res/layout/activity_rapid_interact_demo.xml"
+    },
+    {
+        "merged": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/build/intermediates/res/merged/debug/layout_activity_web_view.xml.flat",
+        "source": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/src/main/res/layout/activity_web_view.xml"
+    },
+    {
+        "merged": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/build/intermediates/res/merged/debug/layout_layout_privacy_dialog.xml.flat",
+        "source": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/src/main/res/layout/layout_privacy_dialog.xml"
+    },
+    {
+        "merged": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/build/intermediates/res/merged/debug/layout_layout_chat_item_feifei.xml.flat",
+        "source": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/src/main/res/layout/layout_chat_item_feifei.xml"
+    },
+    {
+        "merged": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/build/intermediates/res/merged/debug/drawable_bg_header.png.flat",
+        "source": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/src/main/res/drawable/bg_header.png"
+    },
+    {
+        "merged": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/build/intermediates/res/merged/debug/drawable_ic_telephone.xml.flat",
+        "source": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/src/main/res/drawable/ic_telephone.xml"
+    },
+    {
+        "merged": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/build/intermediates/res/merged/debug/color_cl_selector_orangey_red.xml.flat",
+        "source": "/Users/ycp/Downloads/Android_aiui6.8.0002.0017_24010738/sample/AIUISimpleDemo/app/src/main/res/color/cl_selector_orangey_red.xml"
+    }
+]
